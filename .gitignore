@@ -5,3 +5,4 @@ __pycache__/
 tokenizer/
 model_config.json
 temperature.json
+trail/

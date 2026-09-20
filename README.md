@@ -117,20 +117,12 @@ QUESTION = "What action should be taken?"
 OPTIONS = ["allow", "request verification", "temporarily block"]
 ```
 
-### Operations routing
-
-```python
-STATE = "The production API has elevated error rates, but the database is healthy."
-QUESTION = "Which response path is most appropriate?"
-OPTIONS = ["rollback deployment", "scale database", "rotate credentials", "no action"]
-```
-
 ### Ordered assessment
 
 ```python
 STATE = "The applicant meets the core requirements and has several directly relevant projects."
 QUESTION = "How strong is the match?"
-OPTIONS = ["weak", "moderate", "strong", "exceptional"]
+OPTIONS = ["weak", "moderate", "strong"]
 ```
 
 ## Notes
