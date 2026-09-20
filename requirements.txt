@@ -1,0 +1,7 @@
+torch>=2.2
+# For an NVIDIA GPU, replace the line above with a CUDA-supported PyTorch wheel
+# matching the CUDA version supported by your installed driver, for example:
+# torch>=2.2 --index-url https://download.pytorch.org/whl/cu121
+transformers>=4.40
+safetensors>=0.4
+huggingface_hub>=0.25

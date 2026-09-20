@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.pt
+*.safetensors
+tokenizer/
+model_config.json
+temperature.json
