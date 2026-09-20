@@ -1,4 +1,4 @@
-# decision_maker runner
+# decision_maker
 
 The smallest local runner for the `decision_maker` model. It starts no server
 and needs no SDK: edit three variables, then run one Python file.
