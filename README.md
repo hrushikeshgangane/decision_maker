@@ -6,8 +6,8 @@ and needs no SDK: edit three variables, then run one Python file.
 ## Use
 
 ```powershell
-git clone https://github.com/hrushikeshgangane/decision_maker_runner
-cd decision_maker_runner
+git clone https://github.com/hrushikeshgangane/decision_maker
+cd decision_maker
 python -m pip install -r requirements.txt
 python run.py --model HrushikeshGangane/decision_maker
 ```
